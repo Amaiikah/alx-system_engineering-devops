@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'This is a readme'> README.me
+echo "##My readme file" > README.md

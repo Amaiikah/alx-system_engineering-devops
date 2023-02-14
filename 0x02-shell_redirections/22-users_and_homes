@@ -1,2 +1,0 @@
-#!/bin/bash
-Cut -d ':' -f 1,6 /etc/passed | sort
